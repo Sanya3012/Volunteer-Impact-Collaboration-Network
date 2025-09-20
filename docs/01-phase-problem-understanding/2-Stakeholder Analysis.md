@@ -1,4 +1,4 @@
-# 🔹 Stakeholder Analysis  
+# 🔹Stakeholder Analysis  
 
 ## 1. Admin (NGO Staff / Demo User)  
 **Role & Influence:**  
@@ -57,3 +57,4 @@
 **Potential Impact:**  
 - Reduces manual workload for staff.  
 - Ensures timely, consistent communication and accurate reporting.  
+
