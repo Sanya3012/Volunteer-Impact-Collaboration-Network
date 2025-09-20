@@ -116,4 +116,3 @@ Helping NGOs get the **maximum value** from their volunteer ecosystem.
 
 ---
 
-✅ **This repository documents, shares, and enhances the Volunteer Impact Collaboration Network, empowering NGOs to maximize volunteer-driven impact.**
