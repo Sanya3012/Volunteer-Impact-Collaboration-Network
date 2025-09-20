@@ -47,10 +47,11 @@
 - Suggests re-engagement actions to NGO (special messages, recognition, etc.).  
 
 ---
-**Benefits : **  
+### Benefits : 
 - Centralized volunteer data management.  
 - Automated communication (welcome, reminders, thank-you).  
 - Accurate tracking of hours and participation.  
 - Real-time dashboards for NGO staff.
 
 ---
+
