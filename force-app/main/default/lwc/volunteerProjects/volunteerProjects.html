@@ -1,0 +1,16 @@
+<template>
+    <lightning-card title="Volunteer Projects">
+        <!-- Project List -->
+        <template for:each={projects} for:item="proj">
+            <p key={proj.Id}>
+                <a href="javascript:void(0);" data-id={proj.Id} onclick={handleView}>
+                    {proj.Name}
+                </a>
+                — {proj.Status__c}
+            </p>
+        </template>
+    </lightning-card>
+
+    <!-- Add the child component -->
+    <c-register-for-event onrefresh={handleRefresh}></c-register-for-event>
+</template>

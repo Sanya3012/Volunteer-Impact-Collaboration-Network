@@ -1,0 +1,10 @@
+<template>
+    <lightning-card title="Register for Event">
+        <div class="slds-p-around_small">
+            <lightning-input label="Volunteer Name" value={volunteerName} onchange={handleNameChange}></lightning-input>
+            <lightning-input label="Event ID" value={eventId} onchange={handleEventChange}></lightning-input>
+            <lightning-button variant="brand" label="Register" onclick={handleRegister}></lightning-button>
+        </div>
+    </lightning-card>
+</template>
+
