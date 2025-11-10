@@ -160,6 +160,6 @@ The **Volunteer Impact Collaboration Network (VICN)** helps by providing:
 
 ---
 
-📌 **Phase 10: Final Presentation & Demo Day Completed**  
+## 📌Phase 10: Final Presentation & Demo Day Completed**  
 [Watch the video here](https://drive.google.com/file/d/15l6A_bPbI-plqyn5c0eEAIfIVPOT24-P/view?usp=sharing)
 
